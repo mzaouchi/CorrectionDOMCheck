@@ -1,0 +1,24 @@
+.dali{
+    color: red;
+}
+
+#main{
+    display: flex;
+    justify-content: space-around;
+}
+.arti{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+img{
+    width: 240px;
+    height: 290px;
+}
+
+.chigui{
+    border-radius: 15px;
+    padding: 4px;
+    border: 3px solid black;
+}
